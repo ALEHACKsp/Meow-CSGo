@@ -1,0 +1,10 @@
+Pymem~=1.0
+mouse~=0.7.1
+keyboard~=0.13.5
+colorama~=0.4.3
+pygame~=1.9.6
+pypiwin32~=223
+pywin32~=227
+requests~=2.23.0
+tabulate~=0.8.7
+Cython~=0.29.17
