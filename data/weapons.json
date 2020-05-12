@@ -1,0 +1,210 @@
+{
+ "1": [
+  "Deagle",
+  "O"
+ ],
+ "2": [
+  "Elite",
+  "0"
+ ],
+ "3": [
+  "Fiveseven",
+  "0"
+ ],
+ "4": [
+  "Glock",
+  "0"
+ ],
+ "7": [
+  "Ak47",
+  "D"
+ ],
+ "8": [
+  "Aug",
+  "A"
+ ],
+ "9": [
+  "Awp",
+  "U"
+ ],
+ "10": [
+  "Famas",
+  "D"
+ ],
+ "11": [
+  "G3sg1",
+  "A"
+ ],
+ "13": [
+  "Galilar",
+  "A"
+ ],
+ "14": [
+  "M249",
+  "E"
+ ],
+ "16": [
+  "M4a1",
+  "D"
+ ],
+ "17": [
+  "Mac10",
+  "N"
+ ],
+ "19": [
+  "P90",
+  "N"
+ ],
+ "24": [
+  "Ump45",
+  "Z"
+ ],
+ "25": [
+  "Xm1014",
+  "V"
+ ],
+ "26": [
+  "Bizon",
+  "Z"
+ ],
+ "27": [
+  "Mag7",
+  "V"
+ ],
+ "28": [
+  "Negev",
+  "E"
+ ],
+ "29": [
+  "Sawedoff",
+  "V"
+ ],
+ "30": [
+  "Tec9",
+  "0"
+ ],
+ "31": [
+  "Taser",
+  false
+ ],
+ "32": [
+  "Hkp2000",
+  "0"
+ ],
+ "33": [
+  "Mp7",
+  "Z"
+ ],
+ "34": [
+  "Mp9",
+  "Z"
+ ],
+ "35": [
+  "Nova",
+  "V"
+ ],
+ "36": [
+  "P250",
+  "0"
+ ],
+ "38": [
+  "Scar20",
+  "A"
+ ],
+ "39": [
+  "Sg556",
+  "U"
+ ],
+ "40": [
+  "Ssg08",
+  "U"
+ ],
+ "42": [
+  "Knife",
+  false
+ ],
+ "43": [
+  "Flashbang",
+  false
+ ],
+ "44": [
+  "Hegrenade",
+  false
+ ],
+ "45": [
+  "Smokegrenade",
+  false
+ ],
+ "46": [
+  "Molotov",
+  false
+ ],
+ "47": [
+  "Decoy",
+  false
+ ],
+ "48": [
+  "Incgrenade",
+  false
+ ],
+ "49": [
+  "C4",
+  false
+ ],
+ "59": [
+  "Knife_t",
+  false
+ ],
+ "60": [
+  "M4a1_silencer",
+  "D"
+ ],
+ "61": [
+  "Usp_silencer",
+  "0"
+ ],
+ "63": [
+  "Cz75a",
+  "F"
+ ],
+ "64": [
+  "Revolver",
+  "P"
+ ],
+ "500": [
+  "Knife_bayonet",
+  false
+ ],
+ "505": [
+  "Knife_flip",
+  false
+ ],
+ "506": [
+  "Knife_gut",
+  false
+ ],
+ "507": [
+  "Knife_karambit",
+  false
+ ],
+ "508": [
+  "Knife_m9_bayonet",
+  false
+ ],
+ "509": [
+  "Knife_tactical",
+  false
+ ],
+ "512": [
+  "Knife_falchion",
+  false
+ ],
+ "515": [
+  "Knife_butterfly",
+  false
+ ],
+ "516": [
+  "Knife_push",
+  false
+ ]
+}
