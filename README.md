@@ -14,6 +14,7 @@ Pess F1 to open up the InGame Menu, click once and control it with the Arrow Key
 
 #### Credits / Libraries
 - [Guided Hacking](https://guidedhacking.com/) - For all that tutorials and provided information
+- [Hazedumper](https://github.com/frk1/hazedumper) - Up to date csgo offsets
 - [PyMem](https://github.com/srounet/Pymem) - Memory reading / writing library
 - [PyGame](https://github.com/pygame/) - SDL library
 - [pygame-menu](https://github.com/ppizarror/pygame-menu) - Easy to use menu library
